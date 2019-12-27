@@ -1,0 +1,87 @@
+This is output of test method1 and 2:
+test methods of SmartAR:
+set a threshold
+60
+set a length
+8
+generate(n): randomly generates a non-existing keys sequence, n is 10
+add(key,value)
+allKeys() as a sorted sequence
+[1BA6FW5L, 5G0GVKF8, 5TPV4TCB, 7XP72UFY, 9O5IHE5U, JSBDO14V, MJOU38QX, O1ILGX5O, ON22FF, QC00HH, QC11QQ, WSQJOKXR, Y0IGHGRE]
+remove(key): ON22FF 
+allKeys() as a sorted sequence
+[1BA6FW5L, 5G0GVKF8, 5TPV4TCB, 7XP72UFY, 9O5IHE5U, JSBDO14V, MJOU38QX, O1ILGX5O, QC00HH, QC11QQ, WSQJOKXR, Y0IGHGRE]
+getValues(key) of QC00HH is 2005
+nextKey(key) of QC00HH is QC11QQ
+prevKey(key) of QC00HH is O1ILGX5O
+previousCars(key) of QC11QQ is [1996, 1958, 2000, 2019, 1963, 2005]
+This is output of test method1 and 2:
+test methods of SmartAR:
+set a threshold
+11
+set a length
+9
+generate(n): randomly generates a non-existing keys sequence, n is 10
+add(key,value)
+allKeys() as a sorted sequence
+[2SJ2T53ZZ, 33USF62R2, 4ZG8V9ZG7, 93RVHJ91B, BEBF0G6CG, BNKU7695S, IA3W5YYC1, IZUZ9Y7ST, ON22FF, QC00HH, QC11QQ, T9AP1R9DT, X9PDA2G1Y]
+remove(key): ON22FF 
+allKeys() as a sorted sequence
+[2SJ2T53ZZ, 33USF62R2, 4ZG8V9ZG7, 93RVHJ91B, BEBF0G6CG, BNKU7695S, IA3W5YYC1, IZUZ9Y7ST, QC00HH, QC11QQ, T9AP1R9DT, X9PDA2G1Y]
+getValues(key) of QC00HH is 2005
+nextKey(key) of QC00HH is QC11QQ
+prevKey(key) of QC00HH is IZUZ9Y7ST
+previousCars(key) of QC11QQ is [1996, 1958, 2000, 2019, 1963, 2005]
+This is output of test method1 and 2:
+test methods of SmartAR:
+set a threshold
+49
+set a length
+10
+generate(n): randomly generates a non-existing keys sequence, n is 10
+add(key,value)
+allKeys() as a sorted sequence
+[1S2O2NW3A2, 8PT26URJ3E, C09DHV30T9, I2SJT9YHG1, KLNON7XUNA, M4DOBAZZHK, ON22FF, QC00HH, QC11QQ, VB805D1LU2, W82NZWXSPY, YXTZXMW7J9, ZL2X8K4CQH]
+remove(key): ON22FF 
+allKeys() as a sorted sequence
+[1S2O2NW3A2, 8PT26URJ3E, C09DHV30T9, I2SJT9YHG1, KLNON7XUNA, M4DOBAZZHK, QC00HH, QC11QQ, VB805D1LU2, W82NZWXSPY, YXTZXMW7J9, ZL2X8K4CQH]
+getValues(key) of QC00HH is 2005
+nextKey(key) of QC00HH is QC11QQ
+prevKey(key) of QC00HH is M4DOBAZZHK
+previousCars(key) of QC11QQ is [2012, 2000, 1990, 1978, 1950]
+This is output of test method1 and 2:
+test methods of SmartAR:
+set a threshold
+26
+set a length
+6
+generate(n): randomly generates a non-existing keys sequence, n is 10
+add(key,value)
+allKeys() as a sorted sequence
+[6BDPTC, KJQQA7, LDYHZX, M6A4ZF, O5BE70, ON22FF, P6L541, QC00HH, QC11QQ, VR2LD2, WD0ZOL, YWN03K, ZUMV3A]
+remove(key): ON22FF 
+allKeys() as a sorted sequence
+[6BDPTC, KJQQA7, LDYHZX, M6A4ZF, O5BE70, P6L541, QC00HH, QC11QQ, VR2LD2, WD0ZOL, YWN03K, ZUMV3A]
+getValues(key) of QC00HH is 2005
+nextKey(key) of QC00HH is QC11QQ
+prevKey(key) of QC00HH is P6L541
+getValues(key) of QC11QQ is 2019
+previousCars(key) of QC11QQ is [2012, 2000, 1990, 1978, 1950]
+This is output of test method1 and 2:
+test methods of SmartAR:
+set a threshold
+66
+set a length
+6
+generate(n): randomly generates a non-existing keys sequence, n is 10
+add(key,value)
+allKeys() as a sorted sequence
+[22K7MK, 2G6PJI, 3YPAZ9, 7H5HHM, 8K02WD, BQMHI6, LAXSJ4, O1U2GX, ON22FF, P1UT41, QC00HH, QC11QQ, WP604D]
+remove(key): ON22FF 
+allKeys() as a sorted sequence
+[22K7MK, 2G6PJI, 3YPAZ9, 7H5HHM, 8K02WD, BQMHI6, LAXSJ4, O1U2GX, P1UT41, QC00HH, QC11QQ, WP604D]
+getValues(key) of QC00HH is 2005
+nextKey(key) of QC00HH is QC11QQ
+prevKey(key) of QC00HH is P1UT41
+getValues(key) of QC11QQ is 2019
+previousCars(key) of QC11QQ is [2012, 2000, 1990, 1978, 1950]
